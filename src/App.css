@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+h3 {
+  font-family: "Akronim", cursive;
+  font-size: 72px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
